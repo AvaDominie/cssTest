@@ -1,0 +1,50 @@
+
+.pageHeader {
+    text-align: center;
+}
+
+section {
+    column-count: 3;
+}
+
+.shop {
+    flex-basis: 16%;
+    border: 1px dotted rgb(8, 8, 8);
+    padding: .25em;
+    margin: 0em;
+    text-align: left;
+}
+
+
+
+.list_shop {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.legislation:link {
+    color:rgb(78, 173, 169);
+    text-decoration:none;
+    }
+    
+    .legislation:hover{
+    color:rgb(33, 102, 134);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
